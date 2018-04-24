@@ -8,13 +8,21 @@
     "react-devtool": "react-devtools"
   },
   "dependencies": {
+    "npm": "^6.0.0",
     "react": "16.3.1",
     "react-native": "0.55.3",
     "reactotron-react-native": "^1.14.0"
   },
   "devDependencies": {
+    "babel-eslint": "^8.2.3",
     "babel-jest": "22.4.3",
     "babel-preset-react-native": "4.0.0",
+    "eslint": "^4.9.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "eslint-plugin-react": "^7.4.0",
+    "eslint-plugin-react-native": "^3.2.1",
     "jest": "22.4.3",
     "react-devtools": "^3.2.1",
     "react-test-renderer": "16.3.1"
